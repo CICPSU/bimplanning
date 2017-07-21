@@ -15,7 +15,6 @@ categories: NBIMS
 
 #### 5.3	BIM Project Execution Planning Guide – Version 2.1
 
-
 _________________________
 
 # NOTE: 
@@ -46,7 +45,6 @@ This test took 10 minutes to:
 _________________________
 
 #### CONTENTS 
-
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -842,5 +840,3 @@ Note the button near the top that says “Help Improve This Content”
 [takes you here](https://github.com/usds/playbook#readme).
 
 A GitHub repository where the actual playbook is managed, commented and made available to the public as well.
-
-
