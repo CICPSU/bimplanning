@@ -24,7 +24,7 @@ View Live HTML pages for Public as read only:
 https://cicpsu.github.io/bimplanning
 
 Edit on GitHub to publish in real time to public HTML pages:
-https://github.com/cicpsu/bimplanning/gh-pages/
+https://github.com/cicpsu/bimplanning/_pages
 
 ## Tools
 
