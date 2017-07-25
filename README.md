@@ -1,36 +1,24 @@
 # Welcome to the bimplanning GitHub Site
+This site has been developed to support open collaboration and content review for upcoming revisions of the BIM Project Execution Planning Guide. The BIM Project Execution Planning Guide is a publciation of the Computer Integrated Construction Research Program.
 
-A place to collect information, data, and tools for the development and publication of the BIM Project Exeuction Planning Guide.
-The BIM Project Execution Planning Guide is a publciation of the Computer Integrated Construction Research Program.
+##BIM Planning Guide Background
+In 2009, the Computer Integrated Construction (CIC) Research Program at Penn State developed the BIM Project Execution Planning Guide.  An initial version of this Guide, along with a template BIM Project Execution Plan, was released.  Through 2012, the Guide was updated, and Version 2.1 of the Guide and template were adopted into the US National BIM Standard.  
 
 ## Why GitHub for Creating the BIM Project Execution Planning Guide?
 
-TED - Clay Shirky: How the Internet will (one day) transform government
-With references to GitHub
-: https://youtu.be/CEN4XNth61o 
-
-How GSA 18F is using GitHub:
-https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/
-
-Various Examples
-http://gsa.github.io/github-federal-stats/
-
 ## Types of users:
-1 - Public to view data
-2 - Commentors to suggest edits
-3 - Editors or admin who accepts the edits
 
-View Live HTML pages for Public as read only: 
+## Website Access
+We are working on the development of GitPages to easily navigate the content  Live HTML pages for Public as read only: 
 https://cicpsu.github.io/bimplanning
 
-Edit on GitHub to publish in real time to public HTML pages:
+All recommended revisions to the Guide, or simply suggestions that can be entered as Issues, can be made from the GitHub site at:
 https://github.com/cicpsu/bimplanning
 
-## Tools
-
+## Markdown Tools
 There are various Markdown editors:
+- MOU for Mac: http://25.io/mou/
+- Writage for MS Word: http://www.writage.com/
+- Google Docs Plug In: https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?hl=en-US
+- Converters: http://pandoc.org/
 
-MOU for Mac: http://25.io/mou/
-Writage for MS Word: http://www.writage.com/
-Google Docs Plug In: https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?hl=en-US
-Converters: http://pandoc.org/
