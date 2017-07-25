@@ -1,2 +1,98 @@
-# Introduction
+# CHAPTER ONE – OVERVIEW OF THE PROJECT EXECUTION PLANNING PROCEDURE FOR BUILDING INFORMATION MODELING
 
+## Introduction to Building Information Modeling
+Building Information Modeling (BIM) is a process focused on the development, use and transfer of a digital information model of a building project to improve the design, construction and operations of a 
+project or portfolio of facilities.  The National Building Information Modeling Standards (NBIMS) Committee defines BIM as: 
+“… a digital representation of physical and functional characteristics of a facility.  A BIM is a shared knowledge resource for information about a facility forming a reliable basis for decisions during its life-cycle; defined as existing from earliest conception to demolition.  A basic premise of BIM is collaboration by different stakeholders at different phases of the life 
+cycle of a facility to insert, extract, update or modify information in the BIM to support and reflect the roles of that stakeholder.”  
+
+When properly implemented, BIM can provide many benefits to a project.  The value of BIM has been illustrated through well planned projects which yield: increased design quality through effective analysis cycles; greater prefabrication due to predictable field conditions; improved field efficiency by visualizing the planned construction schedule; increased innovation through the use of digital design applications; and many more.  At the end of the construction phase, valuable information can be used by the facility 
+operator for asset management, space planning, and maintenance scheduling to improve the overall performance of the facility or a portfolio of facilities.  Yet, there have also been examples of projects where the team did not effectively plan the implementation of BIM and incurred increased costs for the modeling services, schedule delays due to missing information, and little to no added value.  Implementing BIM requires detailed planning and fundamental process modifications for the project 
+team members to successfully achieve the value from the available model information.  
+
+BIM can be implemented at many phases throughout a project, but the current technology, training, and costs of implementation relative to added value must always be considered when determining the appropriate areas and levels of detail needed in the information modeling processes.  Teams should not focus on whether or not to use BIM in general, but instead they need to define the specific implementation areas and uses.  A team should aim to implement BIM at the level needed to maximize value while minimizing the cost and impact of the modeling implementation.  This requires the team to selectively identify appropriate areas for BIM implementation and plan these implementation areas in 
+detail.
+
+## Why Should the Project Team Develop a BIM Project Execution Plan?
+To effectively integrate BIM into the project delivery process, it is important for the team to develop a detailed execution plan for BIM implementation.  A BIM Project Execution Plan (hereinafter referred to as the ‘BIM Plan’) outlines the overall vision along with implementation details for the team to follow throughout the project.  The BIM Plan should be developed in the early stages of a project; continually developed as additional participants are added to the project; and monitored, updated, and revised as needed throughout the implementation phase of the project.  The plan should define the scope of BIM implementation on the project, identify the process flow for BIM tasks, define the information exchanges between parties, and describe the required project and company infrastructure needed to 
+support the implementation. 
+
+By developing a BIM Plan, the project and project team members can achieve the following value:
+1. All parties will clearly understand and communicate the strategic goals for implementing BIM on the project;
+2. Organizations will understand their roles and responsibilities in the implementation;
+3. The team will be able to design an execution process which is well suited for each team member’s business practices and typical organizational workflows;
+4. The plan will outline additional resources, training, or other competencies necessary to successfully implement BIM for the intended uses;
+5. The plan will provide a benchmark for describing the process to future participants who join the project
+6. The purchasing divisions will be able to define contract language to ensure that all project participants fulfill their obligations; and
+7. The baseline plan will provide a goal for measuring progress throughout the project.
+
+BIM, like other new technologies, can carry some level of additional process risk when implemented by teams that are not experienced with the implementation process, or if people are not familiar with the strategies and processes of their team members.  Ultimately, the entire team will gain value through the increased level of planning by reducing the unknowns in the implementation process thereby reducing the overall risk to all parties and the project.  
+
+## The BIM Project Execution Planning Procedure
+This guide outlines a four step procedure to develop a detailed BIM Plan.  The procedure is designed to steer owners, program managers, and early project participants through a structured process to develop detailed, consistent plans for projects.  This procedure was developed through a multi-step research process which included industry interviews with over 40 industry experts, detailed analysis of existing planning documents, focus group meetings with industry participants, process mapping research to 
+design an efficient and effective mapping structure, and case study research to validate the procedure.  
+
+The four steps, shown in Figure 1-1, consist of identifying the appropriate BIM goals and uses on a project, designing the BIM execution process, defining the BIM deliverables, and identifying the supporting infrastructure to successfully implement the plan.  These steps are introduced in the following sections, and then a chapter in this guide is dedicated to explaining the details related to each step.  Detailed templates have also been created to support each of these steps.  These templates are available on the project website as well as the printed examples included in the Appendices of this guide.
+
+
+Figure 1-1: The BIM Project Execution Planning Procedure
+
+### Identify BIM Goals and Uses
+One of the most important steps in the planning process is to clearly define the potential value of BIM on the project and for project team members through defining the overall goals for BIM implementation.  These goals could be based on project performance and include items such as 
+reducing the schedule duration, achieving higher field productivity, increasing quality, reducing cost of change orders, or obtaining important operational data for the facility.  Goals may also relate to advancing the capabilities of the project team members, for example, the owner may 
+wish to use the project as a pilot project to illustrate information exchanges between design, construction and operations or a design firm may seek to gain experience in the efficient use of digital design applications.  Once the team has defined measurable goals, both from a project perspective and company perspective, then the specific BIM uses on the project can be 
+identified.  
+
+The guide includes twenty-five common uses for BIM which have been identified through analysis of project case studies, interviews with industry experts, and review of literature.  A BIM Use is a unique task or procedure on a project which can benefit from the integration of BIM into that process.  The twenty-five identified uses are not comprehensive, but provide a good representation of the current uses of BIM within the industry.  Several examples of BIM Uses include design authoring, 4D modeling, cost estimating, space management and record modeling.  The team should identify and prioritize the appropriate BIM Uses which they have identified as beneficial to the project.  The procedure for identifying BIM Goals and Uses is discussed in further detail in Chapter Two of this guide.
+
+### Design the BIM Execution Process
+Once the team has identified the BIM Uses, a process mapping procedure for planning the BIM implementation needs to be performed.  Initially, a high level map showing the sequencing and interaction between the primary BIM Uses on the project is developed (see Figure 1-2).  This allows all team members to clearly understand how their work processes interact with the processes performed by other team members.  
+ 
+Figure 1-2:  High Level BIM Use Map (see Chapter 3 for full size image)
+
+After the high level map is developed, then more detailed process maps should be selected or designed by the team members responsible for each detailed BIM Use.  For example, the high level map will show how the BIM authoring, energy modeling, cost estimating, and 4D modeling are sequenced and interrelated.  A detailed map will show the detailed process that will be performed by an organization or, in som cases, several organizations, such may be the case for energy modeling.  The procedure for designing the BIM execution process is discussed in further detail in Chapter 3 of this guide.?
+
+### Develop Information Exchanges  
+Once the appropriate process maps have been developed, the information exchanges which occur between the project participants should be clearly identified.  It is important for the team members, in particular the author and receiver for each information exchange transaction, to clearly understand the information content.  This information content for the exchange can be defined in the Information Exchange table a portion of which is displayed as an example in Figure 1-3.  The procedure for defining the information exchanges is discussed in further detail in Chapter Four of this guide.
+
+Figure 1-3:  Portion of the Information Exchange Spreadsheet template
+
+### Define Supporting Infrastructure for BIM Implementation
+After the BIM uses for the project have been identified, the project process maps  are customized, and the BIM deliverables are defined, the team must develop the infrastructure needed on the project to support the planned BIM process.  This will include the definition of the delivery structure and contract language; defining the communication procedures; defining the technology infrastructure; and identifying quality control procedures to ensure high quality information models.  The procedure for defining the infrastructure along with methods to implement and track progress is discussed in further detail in Chapter 5 of this guide.?
+
+## What Information is Included in a BIM Project Execution Plan?
+When complete, the BIM Plan should address the following categories of information: 
+1. BIM Project Execution Plan Overview Information:  Document the reason for creating the Project Execution Plan.
+2. Project Information:  The Plan should include critical project information such as project numbers, project location, project description, and critical schedule dates for future reference.
+3. Key Project Contacts:  As part of the reference information, A BIM Plan should include contact information for key project personnel.
+4. Project Goals / BIM Objectives:  This section should document the strategic value and specific uses for BIM on the project as defined by the project team in the initial step of the planning procedure.  Additional information regarding this category is included in Chapter Two.
+5. Organizational Roles and Staffing:  One of the primary tasks is to define the coordinator(s) of the BIM planning and execution process throughout the various stages of the project.  This is particularly important when identifying the organization(s) who will initiate the development of the BIM Plan, as well as the required staff to successfully implement the plan.
+6. BIM Process Design:  This section should clearly illustrate the execution process through the use of process maps which are developed in the second step of the planning procedure.  Additional information regarding this category is included in Chapter Three.
+7. BIM Information Exchanges:  The model elements and level of detail required to implement each BIM Use should be clearly defined in the information exchanges requirements.  Additional information regarding this category is included in Chapter Four.
+8. BIM and Facility Data Requirements:  The owner’s requirements for BIM must be documented and understood.
+9. Collaboration Procedures:  The team should develop their electronic and collaboration activity procedures.  This includes the definition of model management procedures (e.g., file structures, and file permissions) as well as typical meeting schedules and agendas.
+10. Model Quality Control Procedures:  A procedure for ensuring that the project participants meet the defined requirements should be developed and monitored throughout the project.
+11. Technology Infrastructure Needs:  The hardware, software and network infrastructure required to execute the plan should be defined.
+12. Model Structure:  The team should discuss and document items such as model structure, file naming structure, coordinate system, and modeling standards.
+13. Project Deliverables:  The team should document deliverables required by the owner.
+14. Delivery Strategy / Contracts:  This section should define the delivery strategy which will be used on the project.  The delivery strategy, e.g., design-build vs. design-bid-build, will impact implementation and it will also impact the language which should be incorporated into the contracts to ensure successful BIM implementation.  
+
+Note:  These items are discussed in further detail in Chapter 5 of this guide.?
+
+## Who Should Develop the BIM Plan?
+To develop the BIM Plan, a planning team should be assembled in the early stages of a project.  This team should consist of representatives from all the primary project team members including the owner, designers, contractors, engineers, major specialty contractors, facility manager, and project owner.  It is very important for the owner, as well as, all primary team members to fully support the planning process.  For the initial goal setting meetings, key decision-makers should be represented from each of the organizations so that the overall goals and vision for implementation on the project are clearly defined for further planning initiatives.  Once this initial goal setting is complete, then the detailed implementation processes and information exchanges can be developed and implemented by the lead BIM coordinators for each of the parties.  
+
+The lead party for coordinating and compiling the BIM Plan should be clearly identified.  This role may vary based on the project delivery method, the timing of the BIM Plan development, and the expertise of the participants.  Parties who may lead this planning initiative could include the owner, architect, program manager, or construction manager.  For some projects, it may be beneficial to have an initial party start the planning, e.g., the owner may begin the planning prior to contracting with additional 
+parties for their services, and then the BIM Plan may be transitioned and completed by another party, such as the construction manager or architect.  In some circumstances, it may be beneficial to contract with a third party to facilitate the planning procedure if the team is inexperienced or the team finds it beneficial to have a facilitator for the planning activities.
+
+## What Meetings are Needed to Successfully Develop the BIM Plan?
+The BIM Plan for the project cannot be developed in isolation.  No one party within the project team can adequately outline the execution plan, while also obtaining the necessary team member commitments for successful BIM implementation.  In order to have a successful project using BIM, full coordination and collaboration by all parties is an absolute necessity.  The planning team should conduct a series of planning meetings to develop the execution plan.  On most projects a minimum of two or three meetings will be needed to develop the overall BIM Plan.  The initial meeting will need to have key decision makers for all organizations.  Follow-up meetings will require fewer people, and be more targeted on the details related to execution.  A detailed outline of a series of four meetings for developing the BIM Plan is included in Chapter 6 of this guide and includes template agendas and interim activities to be performed by the planning team.
+
+## How Does the BIM Planning Procedure Integrate with the National BIM Standard?
+The National Building Information Modeling Standard – United States™ (NBIMS-US) is currently being developed by the buildingSMART alliance™, a part of the National Institute for Building Sciences.  The goal of the NBIMS-US is to identify and define standard information exchanges that are required on facility projects.  The BIM Planning Procedure is designed to complement the standard exchange requirements under development in the NBIMS-US initiative.  Ultimately, the vision will be that a project 
+team can seamlessly integrate the information exchanges in the NBIMS-US with Step 3 of this execution planning procedure which focuses on Information Exchange Requirements.  As the information exchanges become standardized throughout the industry, the third step of this process could be simplified by referencing the standard exchanges, instead of providing a custom information exchange requirement for each task. 
+ 
+If the industry standardizes the procedure for planning the BIM Execution on projects, then organizations can create their typical company workflows and procedures in a format to easily integrate with the BIM Planning Procedure.  This will make it easier for teams to quickly plan the execution 
+strategy on a project.  If all organizations map their standard processes, then the project execution planning procedure is a design task which compiles the different work processes from the various team members (see Figure 1-4).  It will also make it easier for team members including the owner to quickly and effectively understand and evaluate execution plans since they will be organized in a standard format with consistent information.
+
+Figure 1-4:  The BIM Project Execution Planning Concept
