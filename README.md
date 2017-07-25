@@ -1,14 +1,10 @@
 # Welcome to the bimplanning GitHub Site
 This site has been developed to support open collaboration and content review for upcoming revisions of the BIM Project Execution Planning Guide. The BIM Project Execution Planning Guide is a publciation of the Computer Integrated Construction Research Program.
 
-##BIM Planning Guide Background
+## BIM Planning Guide Background
 In 2009, the Computer Integrated Construction (CIC) Research Program at Penn State developed the BIM Project Execution Planning Guide.  An initial version of this Guide, along with a template BIM Project Execution Plan, was released.  Through 2012, the Guide was updated, and Version 2.1 of the Guide and template were adopted into the US National BIM Standard.  
 
-## Why GitHub for Creating the BIM Project Execution Planning Guide?
-
-## Types of users:
-
-## Website Access
+## Website Locations
 We are working on the development of GitPages to easily navigate the content  Live HTML pages for Public as read only: 
 https://cicpsu.github.io/bimplanning
 
