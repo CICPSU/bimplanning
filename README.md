@@ -11,7 +11,9 @@ https://cicpsu.github.io/bimplanning
 All recommended revisions to the Guide, or simply suggestions that can be entered as Issues, can be made from the GitHub site at:
 https://github.com/cicpsu/bimplanning
 
-## Markdown Tools
+## Markdown
+There is a good Markdown cheat sheet available at https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 There are various Markdown editors:
 - MOU for Mac: http://25.io/mou/
 - Writage for MS Word: http://www.writage.com/
