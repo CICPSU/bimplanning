@@ -16,4 +16,4 @@ include: ['_pages']
 kramdown:
   input: GFM
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
