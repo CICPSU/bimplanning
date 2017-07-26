@@ -63,5 +63,8 @@ If you do not develop formal plans, please enter 'Not Applicable'.
 
 10. Please provide suggestions for how you would like to see the BIM Project Execution Planning Guide and templates improved. (essay question)
 
-'''we should add some questions regarding the template document'''
-''' do we want to ask some more guided questions, e.g., would you like to see an online system for developing BIM plans, would you like to see...'''
+>
+> we should add some questions regarding the template document
+>
+> do we want to ask some more guided questions, e.g., would you like to see an online system for developing BIM plans, would you like to see...
+>
