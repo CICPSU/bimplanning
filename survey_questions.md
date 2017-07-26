@@ -19,9 +19,10 @@ We will be reviewing the comments and putting together a more detailed plan to r
 - Specialty Contractor
 - Consultant
 - Other (specify)
-'''
-do we want to include academic (student / professor / ?)
-'''
+
+>
+>do we want to include academic (student / professor / ?)
+>
 
 ## Model Use
 3. What percentage of your portfolio uses BIM? Please enter a percentage value between 0 and 100.
