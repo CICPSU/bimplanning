@@ -12,20 +12,25 @@ We will be reviewing the comments and putting together a more detailed plan to r
 - Country (optional)
 - Email (optional)
 
+> may want to shift to the end of the questionaire
+
 2. Please enter your professional discipline:
 - Owner
 - Designer
 - Contractor
 - Specialty Contractor
 - Consultant
+- academic (student, faculty, researcher)
 - Other (specify)
 
 >
->do we want to include academic (student / professor / ?)
+> added academic (student, faculty, researcher)
+>
+> is this consistent with previous survey?
 >
 
 ## Model Use
-3. What percentage of your portfolio uses BIM? Please enter a percentage value between 0 and 100.
+3. What percentage of your organization's project portfolio (by volume) uses BIM? Please enter a percentage value between 0 and 100.
 >
 > use a number entry box with 0 to 100 limitation.  May also want to allow for a Not Applicable for people who do not use BIM.
 >
