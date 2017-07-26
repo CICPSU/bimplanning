@@ -26,7 +26,12 @@ We will be reviewing the comments and putting together a more detailed plan to r
 
 ## Model Use
 3. What percentage of your portfolio uses BIM? Please enter a percentage value between 0 and 100.
-// use a number entry box with 0 to 100 limitation.  May also want to allow for a Not Applicable for people who do not use BIM.
+>
+> use a number entry box with 0 to 100 limitation.  May also want to allow for a Not Applicable for people who do not use BIM.
+>
+>
+> do we want to add a frequency and benefit question for model uses - or possibly do this in a followup question.
+>
 
 ## BIM Planning Guide Use
 4. For the projects that use BIM, what percentage of the projects have a formal (documented) BIM Project Execution Plan?
