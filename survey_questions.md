@@ -69,9 +69,13 @@ If you do not develop formal plans, please enter 'Not Applicable'.
 - Infrastructure Definition
    (Coordination meetings, Quality Plan, Contracting Strategy, etc)
 
+10. Does your organization work on projects that require a formal BIM Project Exeuction Plan in a format similar to the structure presented in the BIM Project Exeuction Plannign Guide?  If so, who is the owner or organization that requires the plan submission?
+- Text box for entry.
+
+
 ## BIM Planning Guide Suggestions
 
-10. Please provide suggestions for how you would like to see the BIM Project Execution Planning Guide and templates improved. (essay question)
+11. Please provide suggestions for how you would like to see the BIM Project Execution Planning Guide and templates improved. (essay question)
 
 >
 > we should add some questions regarding the template document
