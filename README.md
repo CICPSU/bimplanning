@@ -1,5 +1,5 @@
 # Welcome to the bimplanning GitHub Site
-This site has been developed to support open collaboration and content review for upcoming revisions of the BIM Project Execution Planning Guide. The BIM Project Execution Planning Guide is a publciation of the Computer Integrated Construction Research Program.
+This site has been developed to support open collaboration and content review for upcoming revisions of the BIM Project Execution Planning Guide. The BIM Project Execution Planning Guide is a publication of the Computer Integrated Construction Research Program.
 
 ## BIM Planning Guide Background
 In 2009, the Computer Integrated Construction (CIC) Research Program at Penn State developed the BIM Project Execution Planning Guide.  An initial version of this Guide, along with a template BIM Project Execution Plan, was released.  Through 2012, the Guide was updated, and Version 2.1 of the Guide and template were adopted into the US National BIM Standard.  
@@ -19,4 +19,3 @@ There are various Markdown editors:
 - Writage for MS Word: http://www.writage.com/
 - Google Docs Plug In: https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?hl=en-US
 - Converters: http://pandoc.org/
-
