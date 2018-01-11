@@ -1,6 +1,6 @@
 # CHAPTER SIX – IMPLEMENTING THE BIM PROJECT EXECUTION PLANNING PROCEDURE
 
-The development of the BIM Plan is a collaborative process.  Some portions of the procedure, e.g., discussing the overall project goals, are collaborative tasks, while other portions, e.g., defining the required file structure or a detailed information exchange, do not necessarily require collaboration.  The key to successfully developing the plan is to ensure that meetings are scheduled for the collaborative tasks when needed, and that the non-collaborative tasks are completed in a timely manner, in preparation for these meetings.  The BIM Plan can be developed through a series of collaborative meetings, followed by work tasks which take place between the meetings.  A series of four meeting have been defined to develop the BIM Plan.  The goal of presenting this four meeting series is to illustrate one structure that the team can use to effectively develop the plan.  For some projects, the team may be able to reduce the number of meetings through effective collaboration between meetings. 
+The development of the BIM Plan is a collaborative process.  Some portions of the procedure, e.g., discussing the overall project goals, are collaborative tasks, while other portions, e.g., defining the required file structure or a detailed information exchange, do not necessarily require collaboration.  The key to successfully developing the plan is to ensure that meetings are scheduled for the collaborative tasks when needed, and that the non-collaborative tasks are completed in a timely manner, in preparation for these meetings.  The BIM Plan can be developed through a series of collaborative meetings, followed by work tasks which take place between the meetings.  A series of four meeting have been defined to develop the BIM Plan.  The goal of presenting this four meeting series is to illustrate one structure that the team can use to effectively develop the plan.  For some projects, the team may be able to reduce the number of meetings through effective collaboration between meetings, while in other project, it may be necessary to schedule addition opportunities for collaboration. 
 
 ## 1.	Meeting Structure for Developing a BIM Project Execution Plan
 
@@ -10,12 +10,12 @@ The four meetings proposed to develop the BIM Project Execution Plan are closely
 
 The first meeting should focus on the discussion of the overall goals for implementing BIM, along with identifying the BIM Uses.  A draft agenda for this meeting would include:
 1.	Introduce and Discuss BIM Experiences (both individual and organizational)
-2.	Develop BIM goals (reference BIM Goal template document)
-3.	Identify which BIM Uses to pursue (reference the BIM Uses worksheet)
+2.	Develop BIM goals (reference BIM Goals template document)
+3.	Identify BIM Uses to pursue (reference the BIM Uses worksheet)
 4.	Develop the frequency and sequencing for the BIM Uses and identify a responsible party to develop the high level (Level One) BIM Overview process map
-5.	Identify the responsible parties to develop detailed BIM Use process maps, e.g., the level two maps
-6.	Organize the schedule for future meetings 
-7.	Agree on the tasks ahead and who is responsible for each
+5.	Identify the responsible parties to develop detailed BIM Use process maps, e.g., the Level Two maps
+6.	Set the schedule for future meetings 
+7.	Agree on the future tasks and define the responsible party for each
 This meeting should be attended by senior management personnel and BIM management staff for all involved participants including the owner, designers, contractors and key subcontractors. 
 
 Tasks Prior to Meeting 2
